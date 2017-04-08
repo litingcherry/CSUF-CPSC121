@@ -4,7 +4,7 @@
 
 #include <iostream>
 #include "DiscountCalc.h"
-using namespace std;
+using namespace std
 
 DiscountCalc::DiscountCalc() {
     price = 70.0;
