@@ -2,7 +2,7 @@
 #include <iomanip>
 #include <cmath>
 #include "DiscountCalc.h"
-using namespace std
+using namespace std;
 
 void test(DiscountCalc, float, float, float);
 
